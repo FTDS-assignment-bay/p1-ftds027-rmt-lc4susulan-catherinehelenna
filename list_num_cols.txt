@@ -1,0 +1,1 @@
+["uk_rank", "world_rank", "tuition_fees", "international_students"]
